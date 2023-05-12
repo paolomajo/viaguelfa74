@@ -73,6 +73,9 @@
 *::after {
   box-sizing: border-box;
 }
+.hhg {
+  line-height: 1.4em;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
